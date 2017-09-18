@@ -1,0 +1,3 @@
+<h2>Article Title</h2>
+<h6>Article Release Date</h6>
+<p class="article_main">Article Content<br /> - Author Name</p>
