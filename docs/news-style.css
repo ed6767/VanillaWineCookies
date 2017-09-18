@@ -1,0 +1,10 @@
+*{
+  font-family: 'Arial', sans-serif;
+}
+body {
+  background-color: #EEC585;
+}
+.article_main {
+  max-height: 500px;
+  overflow: auto;
+}
